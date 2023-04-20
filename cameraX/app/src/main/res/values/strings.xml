@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cameraX</string>
+    <string name="preview_area">test</string>
+    <string name="capture">test2</string>
+</resources>

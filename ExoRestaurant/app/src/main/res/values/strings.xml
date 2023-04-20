@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">restaurant_app</string>
+    <string-array name="type">
+        <item>French</item>
+        <item>Lebanese</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>American</item>
+        <item>Indian</item>
+    </string-array>
+</resources>
